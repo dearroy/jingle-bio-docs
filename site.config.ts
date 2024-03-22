@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jingle Bio Help Center',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Luo Baishun',
+  domain: 'help.jingle.bio',
+  author: 'EarlyBird, Inc.',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'The official documentation for Jingle Bio',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'jinglebio',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
