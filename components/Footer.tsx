@@ -1,5 +1,4 @@
 import * as React from 'react'
-import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
 import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
 
